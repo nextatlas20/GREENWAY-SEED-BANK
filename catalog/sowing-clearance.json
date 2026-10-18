@@ -1,0 +1,51 @@
+{
+  "cutoff": "2030-04-15T12:00Z",
+  "lot_count": 5,
+  "lots": [
+    {
+      "lot_id": "SL-A101",
+      "common_name": "Bee Balm",
+      "zone": "North",
+      "grams": 250,
+      "status": "READY",
+      "germination_percent": 84.0,
+      "tested_at": "2030-04-12T09:00Z"
+    },
+    {
+      "lot_id": "SL-A102",
+      "common_name": "Sky Aster",
+      "zone": "East",
+      "grams": 175,
+      "status": "CONDITIONAL",
+      "germination_percent": 70.0,
+      "tested_at": "2030-04-13T11:00Z"
+    },
+    {
+      "lot_id": "SL-A104",
+      "common_name": "Wild Lupine",
+      "zone": "South",
+      "grams": 220,
+      "status": "QUARANTINE",
+      "germination_percent": 90.0,
+      "tested_at": "2030-04-12T10:30Z"
+    },
+    {
+      "lot_id": "SL-A103",
+      "common_name": "Goldenrod",
+      "zone": "West",
+      "grams": 300,
+      "status": "REJECTED",
+      "germination_percent": 55.0,
+      "tested_at": "2030-04-12T10:00Z"
+    },
+    {
+      "lot_id": "SL-A105",
+      "common_name": "Red Clover",
+      "zone": "East",
+      "grams": 150,
+      "status": "UNTESTED",
+      "germination_percent": null,
+      "tested_at": null
+    }
+  ]
+}
