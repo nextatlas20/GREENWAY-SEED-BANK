@@ -1,0 +1,12 @@
+{"lot_id":"SL-A101","tested_at":"2030-04-12T09:00Z","test_seq":1,"germinated":84,"seeds_tested":100,"contaminated":false}
+{"lot_id":"SL-A102","tested_at":"2030-04-12T09:30Z","test_seq":1,"germinated":62,"seeds_tested":100,"contaminated":false}
+{"lot_id":"SL-A102","tested_at":"2030-04-13T10:00Z","test_seq":2,"germinated":68,"seeds_tested":100,"contaminated":false}
+{"lot_id":"SL-A102","tested_at":"2030-04-13T11:00Z","test_seq":2,"germinated":70,"seeds_tested":100,"contaminated":false}
+{"lot_id":"SL-A103","tested_at":"2030-04-12T10:00Z","test_seq":1,"germinated":55,"seeds_tested":100,"contaminated":false}
+{"lot_id":"SL-A104","tested_at":"2030-04-12T10:30Z","test_seq":1,"germinated":90,"seeds_tested":100,"contaminated":true}
+{"lot_id":"SL-A105","tested_at":"2030-04-09T10:00Z","test_seq":1,"germinated":75,"seeds_tested":100,"contaminated":false}
+{"lot_id":"SL-A105","tested_at":"2030-04-16T08:00Z","test_seq":2,"germinated":88,"seeds_tested":100,"contaminated":false}
+{"lot_id":"SL-A101","tested_at":"2030-04-14T08:00Z","test_seq":3,"germinated":101,"seeds_tested":100,"contaminated":false}
+{"lot_id":"SL-A103","tested_at":"2030-04-14T12:00Z","test_seq":0,"germinated":99,"seeds_tested":100,"contaminated":false}
+{"lot_id":"SL-A999","tested_at":"2030-04-14T12:30Z","test_seq":1,"germinated":80,"seeds_tested":100,"contaminated":false}
+not-json
